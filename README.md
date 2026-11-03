@@ -5,7 +5,7 @@
 A powerful C++ application that captures live audio (like Chrome Live Captions) and converts it to text in real time — ideal for accessibility, meeting notes, interviews, or AI-assisted conversations.  
 Translate speech instantly, save transcripts automatically, and connect with GPT-based tools for smart analysis.
 
-# 👋 Hi, I'm Jeremy Arellano
+# 👋 Hi, I'm James
 
 🚀 **AI/ML Engineer | Software Developer | .NET / C++ / Java Specialist**
 
@@ -54,4 +54,4 @@ This project is licensed under the MIT License.
 
 ⭐️ *If you find my work useful, please consider giving a star!*
 
-© 2025 Jeremy. All rights reserved.
+© 2025 James. All rights reserved.
